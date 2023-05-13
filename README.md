@@ -1,5 +1,10 @@
 # React-web
-My internship projects using React.
+These are my internship projects using React.
 
 
-Download the projects in a folder and install npm that is node modules package in that folder.
+Copy code
+npm install After that, you can start the development server by running:
+
+Dependencies
+The projects uses the following dependencies:
+react and react-dom for building the user interface react-router-dom for client-side routing axios for data fetching firebase for user authentication
